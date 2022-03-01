@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "ostream": "cpp",
+        "new": "cpp",
+        "vector": "cpp",
+        "iostream": "cpp",
+        "cmath": "cpp"
+    },
+    "ros.distro": "melodic"
+}
